@@ -1,0 +1,1 @@
+public enum Enum_Stats{ Empty, Source}

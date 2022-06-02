@@ -1,0 +1,1 @@
+public enum Enum_Skills{ Empty, DoorPower, RefleshTime, MaxPower}

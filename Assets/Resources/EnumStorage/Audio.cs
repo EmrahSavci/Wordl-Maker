@@ -1,0 +1,1 @@
+public enum Enum_Audio{ Empty, coin, test}
